@@ -9,7 +9,13 @@ ftp://ftp.cs.princeton.edu/pub/cs226/bacon/input-mpaa.txt
 
 The program has two features
 
-1-) Finding Kevin Bacon number of an actor
+## 1-) Finding Kevin Bacon number of an actor
 
 
-2-) Finding Distance between two actors
+![Image1](https://github.com/cnrkaya/kevin-bacon-number/blob/master/screenshots/1.PNG)
+![Image2](https://github.com/cnrkaya/kevin-bacon-number/blob/master/screenshots/2.PNG)
+
+## 2-) Finding Distance between two actors
+
+![Image3](https://github.com/cnrkaya/kevin-bacon-number/blob/master/screenshots/3.PNG)
+![Image4](https://github.com/cnrkaya/kevin-bacon-number/blob/master/screenshots/4.PNG)
